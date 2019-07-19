@@ -1,0 +1,15 @@
+C:\Users\tisande\Documents\Ready-Demo-2019\leaderboard-generate-data\obj\Debug\netcoreapp2.0\generate-data.csprojAssemblyReference.cache
+C:\Users\tisande\Documents\Ready-Demo-2019\leaderboard-generate-data\obj\Debug\netcoreapp2.0\generate-data.csproj.CoreCompileInputs.cache
+C:\Users\tisande\Documents\Ready-Demo-2019\leaderboard-generate-data\obj\Debug\netcoreapp2.0\generate-data.AssemblyInfoInputs.cache
+C:\Users\tisande\Documents\Ready-Demo-2019\leaderboard-generate-data\obj\Debug\netcoreapp2.0\generate-data.AssemblyInfo.cs
+C:\Users\tisande\Documents\Ready-Demo-2019\Generate-Data\obj\Debug\netcoreapp2.0\generate-data.csprojAssemblyReference.cache
+C:\Users\tisande\Documents\Ready-Demo-2019\Generate-Data\obj\Debug\netcoreapp2.0\generate-data.csproj.CoreCompileInputs.cache
+C:\Users\tisande\Documents\Ready-Demo-2019\Generate-Data\obj\Debug\netcoreapp2.0\generate-data.AssemblyInfoInputs.cache
+C:\Users\tisande\Documents\Ready-Demo-2019\Generate-Data\obj\Debug\netcoreapp2.0\generate-data.AssemblyInfo.cs
+C:\Users\tisande\Documents\Ready-Demo-2019\Generate-Data\bin\Debug\netcoreapp2.0\generate-data.deps.json
+C:\Users\tisande\Documents\Ready-Demo-2019\Generate-Data\bin\Debug\netcoreapp2.0\generate-data.runtimeconfig.json
+C:\Users\tisande\Documents\Ready-Demo-2019\Generate-Data\bin\Debug\netcoreapp2.0\generate-data.runtimeconfig.dev.json
+C:\Users\tisande\Documents\Ready-Demo-2019\Generate-Data\bin\Debug\netcoreapp2.0\generate-data.dll
+C:\Users\tisande\Documents\Ready-Demo-2019\Generate-Data\bin\Debug\netcoreapp2.0\generate-data.pdb
+C:\Users\tisande\Documents\Ready-Demo-2019\Generate-Data\obj\Debug\netcoreapp2.0\generate-data.dll
+C:\Users\tisande\Documents\Ready-Demo-2019\Generate-Data\obj\Debug\netcoreapp2.0\generate-data.pdb
